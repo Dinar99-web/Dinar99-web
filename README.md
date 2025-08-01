@@ -21,4 +21,4 @@
 
 ### Мои проекты:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinar99-web&repo=ImdbTests&theme=shadow_red)](https://github.com/Dinar99-web/ImdbTests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinar99-web&repo=ImdbTests&theme=shadow_red)](https://github.com/Dinar99-web/ApiReqresTests/tree/main)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dinar99-web&repo=ApiReqresTests&theme=shadow_red)](https://github.com/Dinar99-web/ApiReqresTests/tree/main)
